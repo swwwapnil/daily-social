@@ -21,5 +21,6 @@ Automation service that fetches RSS feeds daily, generates social copy with Deep
 4. Put `credentials.json` in project root  
 5. Authorize once:
    ```bash
-   python app.py --once
+   python -m src.run_once
+
 
