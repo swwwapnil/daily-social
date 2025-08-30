@@ -1,0 +1,8 @@
+# Add or remove feeds. Title is optional (used for scoring hints).
+feeds:
+  - url: https://news.ycombinator.com/rss
+    title: Hacker News
+  - url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    title: NYT Tech
+  - url: https://www.theverge.com/rss/index.xml
+    title: The Verge
